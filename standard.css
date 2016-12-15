@@ -15,6 +15,7 @@ body, pre {
 div p, m, s, l, mi, hr{
   margin-left:100px;
   color: #000000;
+  background: #f4ef8a;
 }
 
 div.inner{
