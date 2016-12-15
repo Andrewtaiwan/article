@@ -7,8 +7,6 @@ body {
 body, pre {
   font-family: 'Cookie', cursive;
   
-  
-  color: 	#f9ff04;
 
 }
 
@@ -50,7 +48,7 @@ mi {
   font-size: 150%;
 }
 div .copr {
-  
+  color: #000000;
   background: #2dff00;
   margin-left: 100px;
 }
