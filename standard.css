@@ -4,7 +4,7 @@ body {
   background-size: cover;
 }
 
-body {
+body, pre {
   font-family: 'Cookie', cursive;
   
   
@@ -19,7 +19,7 @@ div.inner{
 
 }
 
-p {
+p, pre {
   font-size: 300%;
 }
 s {
