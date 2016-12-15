@@ -12,6 +12,10 @@ body, pre {
 
 }
 
+div p, m, s, l, mi{
+  margin-left:105px;
+}
+
 div.inner{
   margin-left:100px;
   height:3508px
