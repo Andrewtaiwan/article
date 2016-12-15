@@ -12,14 +12,15 @@ body, pre {
 
 }
 
-div p, m, s, l, mi{
+div p, m, s, l, mi, hr{
   margin-left:100px;
+  color: #000000;
 }
 
 div.inner{
   margin-left:100px;
   height:3508px
-  background: url('mail.png') no-repeat center center fixed;
+  background: #f4ef8a;
 
 }
 
