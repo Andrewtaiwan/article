@@ -12,12 +12,23 @@ body, pre {
 
 }
 
-div p, m, s, l, mi, hr{
+div p, m, s, l, mi {
   margin-left:100px;
   color: #000000;
   background: #f4ef8a;
 }
 
+div hr {
+  margin-left:100px;
+  color: #000000;
+  background: #f4ef8a;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #4de4ff;
+  margin: 1em 0;
+  padding: 0; 
+}
 div.inner{
   margin-left:100px;
   height:3508px
