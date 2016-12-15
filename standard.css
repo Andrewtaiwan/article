@@ -12,7 +12,7 @@ body, pre {
 
 }
 
-div p, m, s, l, mi {
+div .text {
   margin-left:100px;
   color: #000000;
   background: #f4ef8a;
@@ -20,10 +20,8 @@ div p, m, s, l, mi {
 
 div hr {
   margin-left:100px;
-  color: #000000;
-  background: #f4ef8a;
   display: block;
-  height: 1px;
+  height: 3px;
   border: 0;
   border-top: 1px solid #4de4ff;
   margin: 1em 0;
